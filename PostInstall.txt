@@ -1,0 +1,7 @@
+
+For more information on tfl, see http://tfl.rubyforge.org
+
+NOTE: Change this information in PostInstall.txt 
+You can also delete it if you don't want it.
+
+
