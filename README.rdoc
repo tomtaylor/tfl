@@ -1,10 +1,8 @@
 = tfl
 
-* FIX (url)
-
 == DESCRIPTION:
 
-FIX (describe your package)
+Provides a nice Ruby API to TFL's services. Unfortunately, because TFL don't actually provide APIs, we have to screen scrape everything.
 
 == FEATURES/PROBLEMS:
 
@@ -16,17 +14,17 @@ FIX (describe your package)
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* WWW::Mechanize
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+* Get the source from Github. Not released as a Rubygem yet.
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2008 FIXME full name
+Copyright (c) 2008 Tom Taylor
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
